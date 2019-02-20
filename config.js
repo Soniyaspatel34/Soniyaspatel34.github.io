@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":6,"title":"Soniya Patel Project Portfolio","author":"soniya493@gmail.com","fileName":"Soniya_Patel_Design_Portfolio__1_.pdf","bounds":[[825,1100],[825,1100],[825,1100],[825,1100],[825,1100],[825,1100]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
